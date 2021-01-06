@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "debug": true,
+  },
+  "pro": {
+    "debug": false,
+    "port": 34567,
+    "host": "0.0.0.0"
+  }
+}
