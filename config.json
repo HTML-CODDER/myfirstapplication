@@ -1,3 +1,10 @@
+from index import Config
+
+print(Config())
+
+INDEX_DEBUG=on
+INDEX_ENV=pro
+
 {
   "dev": {
     "debug": true,
