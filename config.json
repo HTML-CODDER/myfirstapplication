@@ -1,3 +1,4 @@
+// Try Codota completions
 public void testCodota() { 
   BufferedReader reader = //...here is the magic
 }
